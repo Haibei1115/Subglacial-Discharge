@@ -1,0 +1,1 @@
+This code solves the subglacial two-layer model and visualises the ocean water intrusion for different channel geometries. In the second part, the code solves the two-layer model coupled with a channel geometry which visualises the time evolution of channel and ocean water intrusion.
